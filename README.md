@@ -1,6 +1,6 @@
 # If-the-Ocean-Could-Sing
 
-An interactive sound installation where conductive textiles become touch interfaces for an underwater soundscape. Built with Arduino and Max/MSP, participants shape a living ocean of sound through direct contact with fabric surfaces, each touch layering new audio into the space.
+An interactive sound installation where conductive textiles become touch interfaces for an underwater soundscape. Built with Arduino and Max/MSP, participants shape a living ocean of sound sourced from an underwater archive of Stellwagon Bay.
 
 **Project documentation:** [bellaciaramitaro.com/if-the-ocean-could-sing](https://www.bellaciaramitaro.com/if-the-ocean-could-sing)
 
